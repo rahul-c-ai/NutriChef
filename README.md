@@ -190,12 +190,12 @@ graph TD
 ## 🎨 Assets
 
 * **Workflow Architecture Diagram**:
-  ![Workflow Architecture Diagram](file:///c:/Users/chhab/OneDrive/Pictures/Documents/capstone%20project%20kaggle/nutrichef/assets/architecture_diagram.png)
+  ![Workflow Architecture Diagram]
 * **Cover Page Banner**:
-  ![Cover Page Banner](file:///c:/Users/chhab/OneDrive/Pictures/Documents/capstone%20project%20kaggle/nutrichef/assets/cover_page_banner.png)
+  ![Cover Page Banner]
 
 ---
 
 ## 🎬 Demo Script
 
-* **Presentation Narration**: [DEMO_SCRIPT.txt](file:///c:/Users/chhab/OneDrive/Pictures/Documents/capstone%20project%20kaggle/nutrichef/DEMO_SCRIPT.txt)
+* **Presentation Narration**: [DEMO_SCRIPT.txt]
